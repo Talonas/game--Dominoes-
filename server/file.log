@@ -1,0 +1,164 @@
+Server: connection from 192.168.1.156 on socket 4
+Server: connection from 192.168.1.165 on socket 6
+User: Talonas joined on socket 6
+User: miau joined on socket 4
+Game: miau vs Talonas - new round
+Game: Talonas vs miau - Talonas won
+User: Talonas disconnected on socket 6
+User: miau disconnected on socket 4
+Server: connection from 192.168.1.165 on socket 12
+Server: connection from 192.168.1.156 on socket 14
+User: Talonas joined on socket 12
+User: sudukas joined on socket 14
+Game: sudukas vs Talonas - new round
+Game: sudukas vs Talonas - sudukas won
+User: Talonas disconnected on socket 12
+User: sudukas disconnected on socket 14
+Server: connection from 192.168.1.165 on socket 20
+User: asd joined on socket 20
+Server: connection from 192.168.1.165 on socket 23
+User: asdasd joined on socket 23
+Game: asdasd vs asd - new round
+User: asd disconnected on socket 20
+User: asdasd disconnected on socket 23
+Server: connection from 192.168.1.165 on socket 27
+User: asd joined on socket 27
+Server: connection from 192.168.1.165 on socket 30
+User: asdas joined on socket 30
+Game: asdas vs asd - new round
+User: asd disconnected on socket 27
+User: asdas disconnected on socket 30
+Server: connection from 192.168.1.165 on socket 34
+User: asd joined on socket 34
+Server: connection from 192.168.1.165 on socket 37
+User: aswerwer joined on socket 37
+Game: aswerwer vs asd - new round
+User: aswerwer disconnected on socket 37
+User: asd disconnected on socket 34
+Server: connection from 192.168.1.165 on socket 41
+User: asd joined on socket 41
+Server: connection from 192.168.1.165 on socket 44
+User: rrr joined on socket 44
+Game: rrr vs asd - new round
+User: asd disconnected on socket 41
+User: rrr disconnected on socket 44
+Server: connection from 192.168.1.165 on socket 48
+User: asd joined on socket 48
+Server: connection from 192.168.1.165 on socket 51
+User: rrrr joined on socket 51
+Game: rrrr vs asd - new round
+User: asd disconnected on socket 48
+User: rrrr disconnected on socket 51
+Server: connection from 192.168.1.165 on socket 55
+User: asd joined on socket 55
+Server: connection from 192.168.1.165 on socket 58
+User: asasdasd joined on socket 58
+Game: asasdasd vs asd - new round
+User: asasdasd disconnected on socket 58
+User: asd disconnected on socket 55
+Server: connection from 192.168.1.165 on socket 62
+User: asd] joined on socket 62
+Server: connection from 192.168.1.165 on socket 65
+User: asdasdasd joined on socket 65
+Game: asdasdasd vs asd] - new round
+Server: connection from 192.168.1.165 on socket 4
+User: asd joined on socket 4
+Server: connection from 192.168.1.165 on socket 7
+User: ww joined on socket 7
+Game: ww vs asd - new round
+Server: connection from 192.168.1.165 on socket 4
+User: asd joined on socket 4
+Server: connection from 192.168.1.165 on socket 7
+User: asdasd joined on socket 7
+Game: asdasd vs asd - new round
+User: asdasd disconnected on socket 7
+User: asd disconnected on socket 4
+Server: connection from 192.168.1.165 on socket 11
+User: asd joined on socket 11
+Server: connection from 192.168.1.165 on socket 14
+User: ssss joined on socket 14
+Game: ssss vs asd - new round
+User: ssss disconnected on socket 14
+User: asd disconnected on socket 11
+Server: connection from 192.168.1.165 on socket 18
+User: asd joined on socket 18
+Server: connection from 192.168.1.165 on socket 21
+User: aaa joined on socket 21
+Game: aaa vs asd - new round
+User: asd disconnected on socket 18
+User: aaa disconnected on socket 21
+Server: connection from 192.168.1.165 on socket 25
+User: asdasd joined on socket 25
+Server: connection from 192.168.1.165 on socket 28
+User: eeee joined on socket 28
+Game: eeee vs asdasd - new round
+User: eeee disconnected on socket 28
+User: asdasd disconnected on socket 25
+Server: connection from 192.168.1.165 on socket 32
+User: asd joined on socket 32
+Server: connection from 192.168.1.165 on socket 35
+User: uuu joined on socket 35
+Game: uuu vs asd - new round
+User: uuu disconnected on socket 35
+User: asd disconnected on socket 32
+Server: connection from 192.168.1.165 on socket 39
+User: asd joined on socket 39
+Server: connection from 192.168.1.165 on socket 42
+User: rrr joined on socket 42
+Game: rrr vs asd - new round
+User: asd disconnected on socket 39
+User: rrr disconnected on socket 42
+Server: connection from 192.168.1.165 on socket 46
+User: /empty disconnected on socket 46
+Server: connection from 192.168.1.165 on socket 4
+User: asdasd joined on socket 4
+Server: connection from 192.168.1.165 on socket 7
+User: sadasdasdasd joined on socket 7
+Game: sadasdasdasd vs asdasd - new round
+User: sadasdasdasd disconnected on socket 7
+User: asdasd disconnected on socket 4
+Server: connection from 192.168.1.165 on socket 11
+User: as joined on socket 11
+Server: connection from 192.168.1.165 on socket 14
+User: i joined on socket 14
+Game: i vs as - new round
+User: as disconnected on socket 11
+User: i disconnected on socket 14
+Server: connection from 192.168.1.165 on socket 18
+User: asdasd joined on socket 18
+Server: connection from 192.168.1.165 on socket 21
+User: a joined on socket 21
+Game: a vs asdasd - new round
+User: a disconnected on socket 21
+User: asdasd disconnected on socket 18
+Server: connection from 192.168.1.165 on socket 25
+User: asd joined on socket 25
+Server: connection from 192.168.1.165 on socket 28
+User: assad joined on socket 28
+Game: assad vs asd - new round
+Server: connection from 192.168.1.165 on socket 4
+User: asd joined on socket 4
+Server: connection from 192.168.1.165 on socket 7
+User: saas joined on socket 7
+Game: saas vs asd - new round
+User: asd disconnected on socket 4
+User: saas disconnected on socket 7
+Server: connection from 192.168.1.165 on socket 11
+User: asd joined on socket 11
+Server: connection from 192.168.1.165 on socket 14
+User: ddd joined on socket 14
+Game: ddd vs asd - new round
+Server: connection from 192.168.1.165 on socket 4
+User: asd joined on socket 4
+Server: connection from 192.168.1.165 on socket 7
+User: asd joined on socket 7
+Game: asd vs asd - new round
+User: asd disconnected on socket 4
+User: asd disconnected on socket 7
+Server: connection from 192.168.1.165 on socket 11
+User: asd joined on socket 11
+Server: connection from 192.168.1.165 on socket 14
+User: ddd joined on socket 14
+Game: ddd vs asd - new round
+User: asd disconnected on socket 11
+User: ddd disconnected on socket 14
